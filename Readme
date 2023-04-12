@@ -1,0 +1,14 @@
+Une URL d'un site web ou application est toujours est lié a une adresse d'une vip.
+
+En gros quand tes users tapent ton URL ils tombent sur ta vip et c'est elle qui va rediriger le traffic vers la machine cible.
+
+Quand tu fait traceroute ton url tu dois arriver sur la vip.
+
+
+
+
+
+
+
+
+*****************************************************
